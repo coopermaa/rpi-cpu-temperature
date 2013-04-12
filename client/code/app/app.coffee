@@ -7,7 +7,7 @@ chart = new Highcharts.Chart
     text: "Raspberry Pi CPU Temperature"
     style:
       fontWeight: 'bold'
-      fontSize: '14px'
+      fontSize: '16px'
       fontFamily: 'Trebuchet MS, Verdana, sans-serif'    
   xAxis:
     type: 'datetime'
