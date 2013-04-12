@@ -166,3 +166,4 @@ pip-log.txt
 ## Node.js
 #################
 node_modules
+!server
