@@ -28,3 +28,7 @@ Or:
     $ nohup coffee app.coffee > /dev/null &
     
 Then point your browser at http://&lt;IP of Raspberry Pi&gt;:3000
+
+Here is a screenshhot:
+
+![screencut](screenshot.png)
