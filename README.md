@@ -31,4 +31,4 @@ Then point your browser at http://&lt;IP of Raspberry Pi&gt;:3000
 
 Here is a screenshhot:
 
-![screencut](screenshot.png)
+![screencut](http://bit.ly/ZkguUB)
